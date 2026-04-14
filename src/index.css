@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&family=Herr+Von+Muellerhoff&family=Nanum+Pen+Script&display=swap');
+
+@font-face {
+    font-family: 'SeoulHangangM';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/SeoulHangangM.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import "tailwindcss";
